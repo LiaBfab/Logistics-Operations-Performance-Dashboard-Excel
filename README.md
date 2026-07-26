@@ -2,7 +2,8 @@
 
 **An interactive Excel dashboard that transforms logistics operations data into executive-ready insights using Power Query, Power Pivot, DAX, and Pivot Tables.**
 
-![Dashboard Preview](Images/Dashboard.png)
+<img width="1846" height="875" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/5a8750d3-b57a-476f-9727-cb394d846f1c" />
+
 
 ---
 
@@ -35,7 +36,15 @@ Design an interactive dashboard that enables management to monitor:
 while reducing reliance on manual reporting.
 
 ---
+## 📂 Data Source
 
+**Dataset:** Logistics Operations Database (Synthetic)
+
+**Source:** Kaggle
+
+🔗 https://www.kaggle.com/datasets/yogape/logistics-operations-database
+
+---
 # ❓ Business Questions Answered
 
 The dashboard was designed around real business questions rather than simply visualizing data.
@@ -138,7 +147,8 @@ The report page provides detailed operational tables including:
 
 The dashboard uses a relational data model built in **Power Pivot**.
 
-![Data Model](Images/Data_Model.png)
+<img width="1702" height="933" alt="04_Data_Model" src="https://github.com/user-attachments/assets/646cd0cc-4e37-4329-89e6-107264cb1abb" />
+
 
 ### Fact Tables
 
@@ -345,15 +355,31 @@ Business Recommendations
 
 ## Fleet Operations Dashboard
 
-*(Insert Dashboard screenshot)*
+<img width="1846" height="875" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/e4795962-7acf-4060-8986-d1f5ae9ae559" />
 
 ## Executive Insight
 
-*(Insert Executive Insight screenshot)*
+<img width="1132" height="867" alt="02_Executive_Insight" src="https://github.com/user-attachments/assets/5eb276f4-4ba0-4938-98d8-a37450cd9e63" />
 
 ## Operational Report
 
-*(Insert Report Page screenshot)*
+<img width="1828" height="878" alt="03_Operational_Report" src="https://github.com/user-attachments/assets/e3f0adec-9004-48de-9164-6b915d0bfa34" />
+
+---
+# 📑 Project Documentation
+
+This repository includes supporting documentation that explains the business context, dashboard design, and analytical findings.
+
+| Document | Description |
+|----------|-------------|
+| 📘 Business Requirements Document | Defines the project objectives, business questions, scope, stakeholders, and functional requirements. |
+| 📊 Executive Insights Report | Summarizes key findings, business implications, and recommendations derived from the dashboard analysis. |
+| 📋 Operational Report | Provides detailed supporting tables for truck performance, customer deliveries, facility workload, revenue, operating costs, fleet utilization, downtime, and maintenance analysis. |
+
+
+- 📘 [Business Requirements Document](Documentation/Business_Requirements_Document.pdf)
+- 📊 [Executive Insights Report](Documentation/Executive_Insights_Report.pdf)
+- 📋 [Operational Report](Documentation/Operational_Report.pdf)
 
 ---
 
