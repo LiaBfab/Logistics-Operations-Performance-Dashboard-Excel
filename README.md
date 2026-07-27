@@ -176,7 +176,7 @@ The dashboard uses a relational data model built in **Power Pivot**.
 * Trucks
 * Customers
 * Facilities
-* Drivers
+* Routes
 
 ---
 
