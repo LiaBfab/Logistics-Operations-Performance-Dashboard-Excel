@@ -36,6 +36,15 @@ Design an interactive dashboard that enables management to monitor:
 while reducing reliance on manual reporting.
 
 ---
+## 📥 Download the Interactive Dashboard
+
+The complete interactive Excel dashboard is included in this repository.
+
+📂 **Dashboard/Logistics_Operations_Dashboard.xlsx**
+
+> **Note:** Enable editing and content (if prompted) to interact with slicers, PivotTables, and dashboard features.
+
+---
 ## 📂 Data Source
 
 **Dataset:** Logistics Operations Database (Synthetic)
