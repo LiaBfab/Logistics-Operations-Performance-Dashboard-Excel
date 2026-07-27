@@ -36,6 +36,15 @@ Design an interactive dashboard that enables management to monitor:
 while reducing reliance on manual reporting.
 
 ---
+## 📥 Download the Interactive Dashboard
+
+The complete interactive Excel dashboard is included in this repository.
+
+📂 **Dashboard/Logistics_Operations_Dashboard.xlsx**
+
+> **Note:** Enable editing and content (if prompted) to interact with slicers, PivotTables, and dashboard features.
+
+---
 ## 📂 Data Source
 
 **Dataset:** Logistics Operations Database (Synthetic)
@@ -147,7 +156,8 @@ The report page provides detailed operational tables including:
 
 The dashboard uses a relational data model built in **Power Pivot**.
 
-<img width="1702" height="933" alt="04_Data_Model" src="https://github.com/user-attachments/assets/646cd0cc-4e37-4329-89e6-107264cb1abb" />
+<img width="1805" height="958" alt="04_Data_Model" src="https://github.com/user-attachments/assets/a2af18c0-c8f1-477a-ad27-1f4de6841c9c" />
+
 
 
 ### Fact Tables
@@ -166,7 +176,7 @@ The dashboard uses a relational data model built in **Power Pivot**.
 * Trucks
 * Customers
 * Facilities
-* Drivers
+* Routes
 
 ---
 
