@@ -2,7 +2,8 @@
 
 **An interactive Excel dashboard that transforms logistics operations data into executive-ready insights using Power Query, Power Pivot, DAX, and Pivot Tables.**
 
-<img width="1852" height="877" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/7416cc50-2cb8-4203-b7b6-a4b334e2e326" />
+<img width="1842" height="877" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/d44f8caa-8483-4e78-b9df-3974197ca054" />
+
 
 
 ---
@@ -365,7 +366,7 @@ Business Recommendations
 
 ## Fleet Operations Dashboard
 
-<img width="1852" height="877" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/0865a3d3-8913-4607-a784-d329b681adf9" />
+<img width="1842" height="877" alt="01_Logistics_Operations_Dashboard" src="https://github.com/user-attachments/assets/1055a749-3ec8-4d03-b5e4-355a54d7a688" />
 
 
 ## Executive Insight
