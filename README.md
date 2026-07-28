@@ -407,6 +407,14 @@ This dashboard enables logistics managers to:
 * Support faster, data-driven decision-making.
 
 ---
+# Lessons Learned
+* Designing dashboards should begin with business questions rather than visuals.
+* A well-designed data model simplifies DAX calculations and improves dashboard performance.
+* Not every dataset supports direct relationships, sometimes independent analysis produces more reliable insights.
+* Executive dashboards should prioritize decision-making over displaying every available metric.
+* Data validation is essential before drawing business conclusions.
+
+---
 
 # 👩‍💻 About the Author
 
