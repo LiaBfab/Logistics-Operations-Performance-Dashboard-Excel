@@ -10,8 +10,6 @@
 
 # 📖 Project Overview
 
-Logistics organizations generate thousands of operational records every day, from trips and deliveries to maintenance, fuel consumption, and incidents. While this data is valuable, decision-makers often struggle to convert it into timely, actionable insights.
-
 This project demonstrates how **Microsoft Excel** can be used as a Business Intelligence platform to consolidate operational data into an interactive dashboard that supports strategic decision-making.
 
 The solution consists of three integrated components:
@@ -35,6 +33,21 @@ Design an interactive dashboard that enables management to monitor:
 * Truck performance
 
 while reducing reliance on manual reporting.
+
+---
+---
+
+# 🛠 Technical Stack
+
+| Tool            | Purpose                        |
+| --------------- | ------------------------------ |
+| Microsoft Excel | Dashboard Development          |
+| Power Query     | Data Cleaning & Transformation |
+| Power Pivot     | Data Modeling                  |
+| DAX             | KPI Calculations               |
+| Pivot Tables    | Aggregation                    |
+| Pivot Charts    | Interactive Visualizations     |
+| Slicers         | Dynamic Filtering              |
 
 ---
 ## 📥 Download the Interactive Dashboard
@@ -136,20 +149,6 @@ The report page provides detailed operational tables including:
 * Customer Deliveries
 * Facility Loads
 * Incidents Severity
-
----
-
-# 🛠 Technical Stack
-
-| Tool            | Purpose                        |
-| --------------- | ------------------------------ |
-| Microsoft Excel | Dashboard Development          |
-| Power Query     | Data Cleaning & Transformation |
-| Power Pivot     | Data Modeling                  |
-| DAX             | KPI Calculations               |
-| Pivot Tables    | Aggregation                    |
-| Pivot Charts    | Interactive Visualizations     |
-| Slicers         | Dynamic Filtering              |
 
 ---
 
